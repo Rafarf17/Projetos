@@ -10,7 +10,3 @@ Ele permite converter valores entre **Real (BRL)**, **Dólar (USD)** e **Euro (E
 - Botão **⇆** para inverter as moedas selecionadas.
 - Interface estilizada com HTML + CSS.
 - Estrutura organizada em `divs`, com `id` e `class` para fácil manipulação.
-
----
-
-## 📂 Estrutura do projeto
