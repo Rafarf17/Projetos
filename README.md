@@ -18,6 +18,18 @@ Este repositório reúne meus projetos e exercícios desenvolvidos em **HTML, CS
   - Melhorar responsividade em dispositivos móveis
     ![img web](https://github.com/Rafarf17/Projetos/blob/main/foto-web-pj1.png)
 
+    ### ⏰ Projeto 2 – Relógio
+Aplicação que exibe um **relógio digital** em tempo real, criada para treinar manipulação de DOM e funções de tempo em JavaScript.
+
+**Tecnologias:** HTML, CSS, JavaScript  
+**Funcionalidades:**
+- Exibição da hora atual em tempo real
+- Atualização automática sem precisar recarregar a página
+- Layout simples e responsivo
+  ![Print do Relógio]()
+
+
+
 ---
 
 ### 🌐 Landing Page - Outlier Open Space
