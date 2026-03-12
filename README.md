@@ -16,7 +16,7 @@ Este repositório reúne meus projetos e exercícios desenvolvidos em **HTML, CS
 - **Próximos passos:**
   - Integrar API de câmbio para valores reais
   - Melhorar responsividade em dispositivos móveis
-  - ![img web]()
+  - ![img web](https://github.com/Rafarf17/Projetos/blob/main/foto-web-pj1.png)
 
 ---
 
