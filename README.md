@@ -26,7 +26,7 @@ Aplicação que exibe um **relógio digital** em tempo real, criada para treinar
 - Exibição da hora atual em tempo real
 - Atualização automática sem precisar recarregar a página
 - Layout simples e responsivo
-  ![Print do Relógio]()
+  ![Print do Relógio](https://github.com/Rafarf17/Projetos/blob/main/foto-web-pj2.png)
 
 
 
